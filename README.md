@@ -10,7 +10,7 @@ This script is telegram-bot Download from YouTube
 
 # A video tutorial of how to use the bot after launching
 
-![alt text](https://streamable.com/0khgf1)
+![alt text](https://medo.gq/infovideo.mp4)
 
 
 # Installation
